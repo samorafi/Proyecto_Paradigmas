@@ -1,1 +1,0 @@
-Este es el repositorio ara trabajar el proyecto de Paradigmas de Programación
