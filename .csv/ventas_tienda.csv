@@ -1,0 +1,201 @@
+venta_id,fecha,producto,categoria,precio_unitario,cantidad,descuento_pct,total_venta,vendedor,sucursal,metodo_pago,devolucion,calificacion_cliente
+1,2023-04-25,Celular,Telefonía,380626,3,0,1141878,José Mora,Liberia,Tarjeta,False,5
+2,2023-04-30,Mouse,Accesorios,13619,1,0,13619,José Mora,Liberia,Efectivo,False,5
+3,2023-01-04,Mouse,Accesorios,14327,5,0,71633,Karla Ríos,Cartago,Transferencia,False,3
+4,2023-02-17,Auriculares,Audio,33384,3,0,100152,Pablo Salas,Heredia,Transferencia,False,1
+5,2023-10-10,Impresora,Computación,196471,4,0,785883,Andrés Castro,Heredia,Efectivo,False,1
+6,2023-04-30,Laptop,Computación,905518,3,0,2716555,Diana López,Heredia,Sinpe,False,3
+7,2023-05-17,Auriculares,Audio,34739,2,15,59056,José Mora,Liberia,Efectivo,False,5
+8,2023-11-24,Tablet,Computación,291664,4,0,1166655,Karla Ríos,Heredia,Tarjeta,False,2
+9,2023-02-03,Laptop,Computación,936072,4,0,3744289,Andrés Castro,Heredia,Efectivo,False,4
+10,2023-05-16,Mouse,Accesorios,16818,4,0,67270,Andrés Castro,Liberia,Transferencia,False,5
+11,2023-04-23,Mouse,Accesorios,16867,4,0,67467,Karla Ríos,Liberia,Sinpe,False,1
+12,2023-03-23,Laptop,Computación,947984,2,15,1611573,Diana López,Liberia,Tarjeta,False,4
+13,2023-05-09,Mouse,Accesorios,15735,4,10,56644,José Mora,San José,Transferencia,False,3
+14,2023-01-02,Celular,Telefonía,408818,2,5,776753,Pablo Salas,Liberia,Efectivo,False,5
+15,2023-11-24,Celular,Telefonía,469404,3,20,1126571,Karla Ríos,Alajuela,Transferencia,False,2
+16,2023-11-03,Cámara,Fotografía,512269,5,0,2561344,José Mora,San José,Transferencia,False,3
+17,2023-02-13,Tablet,Computación,283489,5,0,1417446,José Mora,Liberia,Efectivo,False,2
+18,2023-09-28,Impresora,Computación,215975,2,0,431951,Diana López,Alajuela,Efectivo,False,3
+19,2023-09-22,Mouse,Accesorios,17232,3,5,49111,Karla Ríos,Alajuela,Tarjeta,False,3
+20,2023-04-23,Laptop,Computación,890016,2,10,1602028,José Mora,Alajuela,Tarjeta,True,1
+21,2023-12-09,Teclado,Accesorios,22943,2,0,45886,Andrés Castro,Alajuela,Sinpe,False,2
+22,2023-02-19,Impresora,Computación,209356,2,0,418712,Pablo Salas,Cartago,Sinpe,False,4
+23,2023-07-26,Laptop,Computación,908090,23,0,20886069,Karla Ríos,Alajuela,Efectivo,False,5
+24,2023-08-25,Impresora,Computación,177659,2,0,355317,José Mora,Cartago,Tarjeta,False,1
+25,2023-05-02,Cámara,Fotografía,499053,1,20,399242,Diana López,Cartago,Efectivo,False,4
+26,2023-05-16,Laptop,Computación,799985,1,5,759986,Diana López,Heredia,Sinpe,False,5
+27,2023-01-30,Impresora,Computación,178353,3,0,535059,Andrés Castro,San José,Transferencia,False,1
+28,2023-09-29,Laptop,Computación,889138,5,20,3556551,Andrés Castro,San José,Efectivo,False,1
+29,2023-03-03,Parlante,Audio,68774,2,5,130671,Andrés Castro,Alajuela,Tarjeta,False,5
+30,2023-09-25,Celular,Telefonía,422019,5,10,1899084,Pablo Salas,Alajuela,Transferencia,False,2
+31,2023-06-11,Monitor,Computación,279705,3,5,797159,José Mora,San José,Sinpe,False,5
+32,2023-04-20,Parlante,Audio,86177,1,10,77559,Karla Ríos,Heredia,Tarjeta,False,2
+33,2023-10-06,Teclado,Accesorios,24281,4,20,77700,Andrés Castro,Liberia,Tarjeta,False,5
+34,2023-05-16,Monitor,Computación,317223,1,0,317223,José Mora,Liberia,Efectivo,False,3
+35,2023-12-18,Monitor,Computación,294338,3,0,883014,Pablo Salas,Liberia,Sinpe,False,3
+36,2023-05-22,Laptop,Computación,784613,4,20,2510763,Pablo Salas,Alajuela,Transferencia,True,2
+37,2023-01-05,Impresora,Computación,197205,4,10,709937,Karla Ríos,Liberia,Tarjeta,False,3
+38,2023-01-22,Parlante,Audio,77860,4,0,311439,José Mora,Heredia,Efectivo,False,2
+39,2023-07-28,Celular,Telefonía,415136,5,20,1660545,Karla Ríos,Alajuela,Efectivo,False,2
+40,2023-07-30,Mouse,Accesorios,13593,3,20,32623,Karla Ríos,Heredia,Efectivo,False,1
+41,2023-04-13,Mouse,Accesorios,16771,4,0,67083,Diana López,Heredia,Transferencia,False,2
+42,2023-06-18,Tablet,Computación,280834,2,5,533585,José Mora,Heredia,Transferencia,False,5
+43,2023-01-15,Mouse,Accesorios,16048,5,0,80241,Pablo Salas,Alajuela,Transferencia,False,1
+44,2023-06-10,Celular,Telefonía,440640,3,15,1123632,Andrés Castro,San José,Sinpe,False,5
+45,2023-09-24,Tablet,Computación,298741,4,0,1194964,Andrés Castro,Alajuela,Transferencia,False,4
+46,2023-06-10,Celular,Telefonía,477632,3,10,1289606,José Mora,Heredia,Transferencia,False,4
+47,2023-03-07,Teclado,Accesorios,25015,3,10,67541,Diana López,Alajuela,Transferencia,False,4
+48,2023-04-18,Cámara,Fotografía,498794,3,0,1496382,Andrés Castro,Liberia,Transferencia,False,4
+49,2023-08-31,Impresora,Computación,192003,2,10,345605,Karla Ríos,San José,Transferencia,False,5
+50,2023-06-08,Parlante,Audio,73785,2,15,125434,Karla Ríos,Alajuela,Tarjeta,False,1
+51,2023-02-07,Tablet,Computación,355255,5,20,1421020,Andrés Castro,Alajuela,Sinpe,False,4
+52,2023-02-24,Mouse,Accesorios,14415,1,20,11532,Karla Ríos,Alajuela,Sinpe,False,1
+53,2023-03-10,Cámara,Fotografía,433035,1,5,411383,Andrés Castro,Liberia,Transferencia,False,4
+54,2023-10-08,Parlante,Audio,82781,5,5,393212,Karla Ríos,Cartago,Sinpe,False,3
+55,2023-09-24,Tablet,Computación,344089,3,20,825814,Karla Ríos,Heredia,Sinpe,False,1
+56,2023-10-04,Monitor,Computación,268415,3,0,805244,Karla Ríos,Alajuela,Sinpe,False,2
+57,2023-10-05,Tablet,Computación,283978,4,0,1135911,José Mora,Alajuela,Sinpe,False,4
+58,2023-10-22,Parlante,Audio,85239,1,20,68191,José Mora,Heredia,Transferencia,False,4
+59,2023-11-05,Mouse,Accesorios,15518,5,20,62073,Diana López,Alajuela,Transferencia,False,4
+60,2023-12-14,Impresora,Computación,172379,3,15,439566,Karla Ríos,Cartago,Efectivo,False,5
+61,2023-10-16,Cámara,Fotografía,408034,4,10,1468921,José Mora,Cartago,Efectivo,False,4
+62,2023-04-19,Auriculares,Audio,31940,4,0,127760,Pablo Salas,Cartago,Transferencia,False,4
+63,2023-10-04,Monitor,Computación,310444,4,0,1241775,Pablo Salas,Alajuela,Tarjeta,True,1
+64,2023-01-11,Laptop,Computación,966792,2,20,1546868,Karla Ríos,Alajuela,Sinpe,False,1
+65,2023-05-12,Parlante,Audio,85270,4,15,289920,Karla Ríos,Liberia,Tarjeta,False,2
+66,2023-10-22,Monitor,Computación,259567,1,0,259567,Diana López,Cartago,Efectivo,False,1
+67,2023-12-23,Parlante,Audio,80449,39,0,3137512,José Mora,Liberia,Tarjeta,False,3
+68,2023-09-17,Cámara,Fotografía,453193,3,0,1359578,José Mora,Cartago,Sinpe,False,1
+69,2023-03-20,Mouse,Accesorios,17103,4,15,58150,Andrés Castro,Heredia,Sinpe,False,4
+70,2023-06-15,Mouse,Accesorios,16597,5,0,82983,José Mora,Heredia,Sinpe,False,2
+71,2023-01-15,Impresora,Computación,198068,4,0,792271,Pablo Salas,Alajuela,Sinpe,False,2
+72,2023-11-02,Teclado,Accesorios,27486,3,0,82459,Pablo Salas,Liberia,Tarjeta,False,5
+73,2023-10-12,Tablet,Computación,285635,4,5,1085413,Diana López,Cartago,Sinpe,False,1
+74,2023-05-05,Celular,Telefonía,408895,4,15,1390242,Andrés Castro,Heredia,Sinpe,False,5
+75,2023-06-30,Cámara,Fotografía,443673,5,0,2218364,Pablo Salas,Heredia,Transferencia,False,2
+76,2023-10-02,Celular,Telefonía,453735,3,0,1361205,Karla Ríos,Alajuela,Efectivo,False,4
+77,2023-05-25,Monitor,Computación,302721,5,10,1362244,Karla Ríos,Heredia,Efectivo,False,3
+78,2023-05-21,Auriculares,Audio,34145,5,0,170724,José Mora,Liberia,Transferencia,True,2
+79,2023-05-26,Impresora,Computación,175873,1,10,158286,Diana López,Heredia,Efectivo,False,1
+80,2023-02-03,Monitor,Computación,317874,4,0,1271498,José Mora,Liberia,Tarjeta,False,2
+81,2023-05-08,Auriculares,Audio,38597,3,0,115792,Diana López,Liberia,Efectivo,False,5
+82,2023-10-29,Mouse,Accesorios,15189,4,0,60758,Pablo Salas,Liberia,Tarjeta,False,5
+83,2023-04-19,Celular,Telefonía,477497,2,15,811745,José Mora,Alajuela,Efectivo,False,2
+84,2023-08-19,Cámara,Fotografía,413445,1,5,392773,Diana López,Heredia,Tarjeta,False,2
+85,2023-12-18,Monitor,Computación,301487,4,0,1205948,Pablo Salas,Liberia,Efectivo,False,4
+86,2023-03-14,Celular,Telefonía,435179,2,0,870358,Karla Ríos,Heredia,Transferencia,False,4
+87,2023-07-26,Celular,Telefonía,427213,3,15,1089394,Andrés Castro,Liberia,Sinpe,False,4
+88,2023-06-15,Celular,Telefonía,440794,4,15,1498699,José Mora,San José,Efectivo,False,5
+89,2023-01-21,Parlante,Audio,85327,3,10,230384,Karla Ríos,Cartago,Sinpe,False,3
+90,2023-09-09,Auriculares,Audio,40223,4,15,136759,Diana López,Heredia,Sinpe,False,3
+91,2023-07-30,Teclado,Accesorios,26688,2,0,53377,Pablo Salas,Cartago,Tarjeta,False,4
+92,2023-07-26,Celular,Telefonía,411024,3,0,1233073,José Mora,Liberia,Sinpe,False,4
+93,2023-09-13,Laptop,Computación,804861,3,10,2173125,José Mora,Alajuela,Transferencia,False,5
+94,2023-09-06,Auriculares,Audio,39617,4,15,134698,Andrés Castro,Alajuela,Efectivo,False,3
+95,2023-04-26,Cámara,Fotografía,406538,4,0,1626154,José Mora,Cartago,Tarjeta,False,2
+96,2023-12-28,Impresora,Computación,215301,3,10,581313,Diana López,Cartago,Efectivo,False,4
+97,2023-09-18,Cámara,Fotografía,421272,2,10,758290,Karla Ríos,San José,Transferencia,False,4
+98,2023-01-02,Teclado,Accesorios,28339,5,0,141695,Pablo Salas,Liberia,Sinpe,False,2
+99,2023-10-10,Impresora,Computación,196583,3,0,589748,Diana López,Cartago,Transferencia,False,2
+100,2023-07-30,Tablet,Computación,323314,2,20,517303,Diana López,Cartago,Sinpe,True,2
+101,2023-10-30,Impresora,Computación,216829,2,10,390292,José Mora,Cartago,Tarjeta,False,5
+102,2023-12-02,Impresora,Computación,171729,2,5,326285,José Mora,Cartago,Transferencia,False,3
+103,2023-06-18,Parlante,Audio,80488,1,20,64391,Andrés Castro,Cartago,Transferencia,False,4
+104,2023-11-20,Cámara,Fotografía,409039,1,0,409039,Pablo Salas,Alajuela,Tarjeta,False,4
+105,2023-03-27,Celular,Telefonía,457839,1,5,434947,José Mora,San José,Transferencia,False,1
+106,2023-05-06,Monitor,Computación,277092,4,0,1108370,Andrés Castro,Alajuela,Efectivo,False,2
+107,2023-12-16,Celular,Telefonía,441997,4,10,1591188,Andrés Castro,Alajuela,Efectivo,False,4
+108,2023-08-27,Monitor,Computación,284170,1,20,227336,Andrés Castro,Alajuela,Tarjeta,False,4
+109,2023-08-06,Teclado,Accesorios,28673,3,15,73116,Diana López,Heredia,Efectivo,False,4
+110,2023-07-03,Impresora,Computación,176066,4,10,633838,Pablo Salas,San José,Sinpe,False,3
+111,2023-09-12,Laptop,Computación,885260,1,10,796734,Pablo Salas,Alajuela,Transferencia,False,2
+112,2023-02-19,Tablet,Computación,327119,40,15,11122048,José Mora,Heredia,Sinpe,False,1
+113,2023-06-01,Parlante,Audio,74341,2,0,148682,Diana López,Alajuela,Efectivo,False,2
+114,2023-09-14,Cámara,Fotografía,503602,3,10,1359725,Karla Ríos,Heredia,Sinpe,False,3
+115,2023-03-14,Teclado,Accesorios,27526,4,0,110106,Karla Ríos,Cartago,Transferencia,False,1
+116,2023-08-21,Mouse,Accesorios,13552,5,0,67761,Pablo Salas,Liberia,Sinpe,False,3
+117,2023-11-14,Celular,Telefonía,448858,4,0,1795431,Andrés Castro,Heredia,Efectivo,False,1
+118,2023-07-29,Impresora,Computación,214196,3,15,546200,José Mora,San José,Transferencia,False,4
+119,2023-07-18,Celular,Telefonía,388205,5,0,1941026,Andrés Castro,Cartago,Efectivo,False,4
+120,2023-05-24,Celular,Telefonía,465538,5,5,2211304,Pablo Salas,Alajuela,Sinpe,True,4
+121,2023-07-08,Tablet,Computación,345297,1,15,293503,Pablo Salas,San José,Sinpe,False,3
+122,2023-12-06,Tablet,Computación,354036,4,0,1416144,Andrés Castro,San José,Tarjeta,False,3
+123,2023-02-05,Tablet,Computación,355634,5,0,1778168,Andrés Castro,Alajuela,Efectivo,False,2
+124,2023-05-22,Teclado,Accesorios,27340,5,0,136699,Karla Ríos,Alajuela,Transferencia,False,2
+125,2023-01-08,Celular,Telefonía,447411,1,0,447411,Karla Ríos,Liberia,Transferencia,False,1
+126,2023-08-04,Auriculares,Audio,33822,2,15,57497,José Mora,Cartago,Sinpe,False,3
+127,2023-04-24,Cámara,Fotografía,471787,4,10,1698435,José Mora,Liberia,Transferencia,False,4
+128,2023-07-25,Laptop,Computación,777925,4,20,2489361,José Mora,Cartago,Sinpe,False,1
+129,2023-03-06,Celular,Telefonía,411822,2,0,823643,Andrés Castro,Liberia,Transferencia,False,4
+130,2023-11-06,Parlante,Audio,77448,4,10,278813,José Mora,Liberia,Efectivo,False,4
+131,2023-08-21,Impresora,Computación,213184,4,0,852737,José Mora,Heredia,Sinpe,False,3
+132,2023-08-31,Monitor,Computación,278201,2,15,472942,José Mora,San José,Sinpe,False,1
+133,2023-10-28,Teclado,Accesorios,27574,5,0,137868,Andrés Castro,Heredia,Tarjeta,False,4
+134,2023-01-27,Teclado,Accesorios,27960,4,20,89472,Andrés Castro,Heredia,Transferencia,False,1
+135,2023-09-04,Parlante,Audio,77014,2,15,130924,José Mora,Heredia,Transferencia,False,1
+136,2023-10-15,Monitor,Computación,292187,4,20,934998,Andrés Castro,Liberia,Tarjeta,False,5
+137,2023-06-08,Monitor,Computación,254027,3,15,647768,Pablo Salas,San José,Efectivo,False,2
+138,2023-11-21,Parlante,Audio,79825,1,0,79825,José Mora,Liberia,Efectivo,False,4
+139,2023-06-09,Mouse,Accesorios,15201,2,0,30402,Andrés Castro,Liberia,Tarjeta,False,1
+140,2023-12-12,Auriculares,Audio,32877,5,0,164387,Diana López,Cartago,Sinpe,False,5
+141,2023-09-20,Impresora,Computación,190674,2,20,305078,Diana López,San José,Transferencia,False,5
+142,2023-04-23,Impresora,Computación,196029,3,0,588088,Andrés Castro,San José,Tarjeta,False,2
+143,2023-05-11,Monitor,Computación,318173,2,20,509076,José Mora,San José,Sinpe,False,4
+144,2023-04-28,Auriculares,Audio,32630,5,15,138679,Pablo Salas,San José,Sinpe,False,1
+145,2023-06-10,Mouse,Accesorios,13570,1,20,10856,Andrés Castro,Cartago,Sinpe,False,3
+146,2023-11-13,Celular,Telefonía,420528,3,0,1261585,Pablo Salas,San José,Sinpe,False,1
+147,2023-02-10,Tablet,Computación,312765,4,10,1125954,Pablo Salas,Heredia,Efectivo,False,3
+148,2023-09-19,Auriculares,Audio,32168,1,10,28951,Pablo Salas,Heredia,Efectivo,False,2
+149,2023-11-05,Celular,Telefonía,393377,2,0,786753,José Mora,Alajuela,Sinpe,False,4
+150,2023-10-17,Parlante,Audio,81748,4,15,277942,Andrés Castro,Heredia,Transferencia,False,2
+151,2023-06-05,Impresora,Computación,174244,4,15,592428,Andrés Castro,San José,Transferencia,False,5
+152,2023-01-30,Celular,Telefonía,410593,4,0,1642371,Pablo Salas,San José,Tarjeta,False,5
+153,2023-10-11,Parlante,Audio,77008,4,10,277227,José Mora,Cartago,Efectivo,False,3
+154,2023-08-19,Parlante,Audio,76418,2,0,152836,Pablo Salas,San José,Efectivo,False,1
+155,2023-09-25,Tablet,Computación,333841,31,10,9314155,Pablo Salas,Heredia,Sinpe,False,4
+156,2023-11-20,Teclado,Accesorios,26743,1,20,21394,José Mora,Heredia,Tarjeta,False,5
+157,2023-03-18,Mouse,Accesorios,14566,5,20,58262,Andrés Castro,Alajuela,Transferencia,False,3
+158,2023-10-14,Mouse,Accesorios,13984,1,0,13984,Pablo Salas,Alajuela,Tarjeta,False,4
+159,2023-04-03,Cámara,Fotografía,445706,3,0,1337117,Pablo Salas,Cartago,Efectivo,False,2
+160,2023-02-21,Auriculares,Audio,32856,3,20,78854,Andrés Castro,Liberia,Tarjeta,False,3
+161,2023-03-25,Parlante,Audio,69957,4,0,279829,Andrés Castro,Alajuela,Sinpe,False,1
+162,2023-11-09,Mouse,Accesorios,14866,2,5,28246,Diana López,Alajuela,Efectivo,False,3
+163,2023-12-14,Impresora,Computación,213939,2,0,427878,Diana López,Cartago,Transferencia,False,4
+164,2023-04-13,Cámara,Fotografía,464339,2,20,742943,Karla Ríos,Heredia,Tarjeta,False,4
+165,2023-09-22,Teclado,Accesorios,25966,1,15,22071,Pablo Salas,San José,Efectivo,False,3
+166,2023-08-12,Impresora,Computación,214002,2,20,342403,Karla Ríos,Cartago,Transferencia,False,1
+167,2023-05-01,Mouse,Accesorios,13700,5,0,68499,José Mora,Heredia,Efectivo,False,1
+168,2023-03-16,Teclado,Accesorios,28318,3,20,67962,Pablo Salas,Cartago,Efectivo,False,4
+169,2023-05-12,Impresora,Computación,200229,1,0,200229,Karla Ríos,Liberia,Sinpe,False,1
+170,2023-05-03,Monitor,Computación,268635,1,0,268635,Andrés Castro,Cartago,Tarjeta,False,1
+171,2023-09-21,Impresora,Computación,199345,1,15,169443,Karla Ríos,Heredia,Sinpe,False,1
+172,2023-04-06,Parlante,Audio,74115,5,5,352048,José Mora,Liberia,Transferencia,False,1
+173,2023-01-11,Cámara,Fotografía,466209,5,10,2097941,Diana López,San José,Sinpe,False,3
+174,2023-02-04,Monitor,Computación,304312,3,20,730349,José Mora,Liberia,Transferencia,False,2
+175,2023-11-26,Laptop,Computación,839864,3,20,2015673,Diana López,Cartago,Efectivo,False,2
+176,2023-05-31,Celular,Telefonía,453185,4,0,1812739,Karla Ríos,San José,Transferencia,False,3
+177,2023-05-10,Cámara,Fotografía,449800,5,5,2136551,Karla Ríos,Heredia,Transferencia,True,1
+178,2023-07-24,Teclado,Accesorios,24208,3,5,68992,Diana López,Heredia,Efectivo,False,4
+179,2023-02-12,Impresora,Computación,188449,5,0,942245,José Mora,Cartago,Efectivo,False,5
+180,2023-12-05,Monitor,Computación,274485,1,0,274485,Diana López,Liberia,Sinpe,False,2
+181,2023-06-30,Impresora,Computación,187698,1,15,159544,Diana López,Heredia,Tarjeta,False,1
+182,2023-03-15,Mouse,Accesorios,14862,2,0,29725,Diana López,San José,Efectivo,False,1
+183,2023-07-16,Tablet,Computación,339335,3,0,1018005,José Mora,Liberia,Efectivo,False,4
+184,2023-03-12,Teclado,Accesorios,24825,1,10,22343,Diana López,Heredia,Transferencia,False,2
+185,2023-09-23,Celular,Telefonía,380721,2,5,723370,Andrés Castro,San José,Transferencia,False,3
+186,2023-12-22,Impresora,Computación,181192,5,0,905960,Diana López,Alajuela,Tarjeta,False,2
+187,2023-12-16,Celular,Telefonía,425464,4,0,1701858,Pablo Salas,Heredia,Tarjeta,False,5
+188,2023-03-22,Cámara,Fotografía,437666,3,20,1050398,Karla Ríos,Heredia,Efectivo,False,1
+189,2023-09-10,Tablet,Computación,340385,37,20,10075399,Andrés Castro,Heredia,Sinpe,True,5
+190,2023-06-08,Auriculares,Audio,36855,1,0,36855,Diana López,Liberia,Sinpe,False,4
+191,2023-02-07,Parlante,Audio,68883,3,15,175651,Andrés Castro,Heredia,Efectivo,False,5
+192,2023-09-15,Parlante,Audio,70912,2,5,134732,José Mora,San José,Efectivo,False,3
+193,2023-09-23,Auriculares,Audio,32917,2,0,65834,José Mora,Heredia,Efectivo,False,5
+194,2023-10-01,Monitor,Computación,260762,3,10,704057,Karla Ríos,Liberia,Efectivo,False,2
+195,2023-10-16,Parlante,Audio,81012,5,0,405059,José Mora,San José,Tarjeta,True,5
+196,2023-11-13,Monitor,Computación,297579,5,5,1413501,Diana López,Liberia,Transferencia,False,3
+197,2023-08-21,Impresora,Computación,182632,4,0,730527,José Mora,Alajuela,Sinpe,False,4
+198,2023-03-15,Impresora,Computación,193061,3,10,521265,Pablo Salas,Heredia,Sinpe,False,2
+199,2023-05-04,Teclado,Accesorios,25719,1,0,25719,Pablo Salas,Cartago,Efectivo,False,2
+200,2023-11-12,Celular,Telefonía,383314,4,20,1226603,Karla Ríos,Heredia,Transferencia,False,2
