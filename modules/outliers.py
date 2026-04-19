@@ -109,11 +109,11 @@ def detectar_isolation_forest(df, contaminacion=0.05):
                 'Método': 'Isolation Forest'
             })
 
-        msg = f"✅ Isolation Forest encontró {len(resultados)} outliers ({round(len(resultados)/len(df)*100, 1)}%)."
+        msg = f"Isolation Forest encontró {len(resultados)} outliers ({round(len(resultados)/len(df)*100, 1)}%)."
         return pd.DataFrame(resultados), msg
 
     except Exception as e:
-        return pd.DataFrame(), f"❌ Error en Isolation Forest: {str(e)}"
+        return pd.DataFrame(), f"Error en Isolation Forest: {str(e)}"
 
 
 # Junta los tres métodos y devuelve un resumen comparativo

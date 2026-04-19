@@ -23,7 +23,7 @@ def calcular_spearman(df):
 
     # Spearman usa rangos en vez de valores, por eso no le afectan tanto los outliers
     matriz = numericas.corr(method='spearman')
-    return matriz, "✅ Correlaciones de Spearman calculadas."
+    return matriz, "Correlaciones de Spearman calculadas."
 
 
 # Devuelve los N pares de variables con mayor correlación (en valor absoluto)

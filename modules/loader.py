@@ -35,10 +35,10 @@ def cargar_archivo(file):
         if len(df) < 2:
             return None, "El archivo tiene muy pocas filas para analizar (mínimo 2)."
 
-        return df, f"✅ Archivo cargado: {len(df)} filas × {len(df.columns)} columnas"
+        return df, f"Archivo cargado: {len(df)} filas × {len(df.columns)} columnas"
 
     except Exception as e:
-        return None, f"❌ Error al leer el archivo: {str(e)}"
+        return None, f"Error al leer el archivo: {str(e)}"
 
 
 # Carga varios archivos y los combina si tienen las mismas columnas
@@ -67,7 +67,7 @@ def cargar_multiples(files):
     # intentamos combinar todos en uno
     try:
         df_combinado = pd.concat(dataframes, ignore_index=True)
-        msg = f"✅ Se combinaron {len(dataframes)} archivos: {len(df_combinado)} filas × {len(df_combinado.columns)} columnas"
+        msg = f"Se combinaron {len(dataframes)} archivos: {len(df_combinado)} filas × {len(df_combinado.columns)} columnas"
         return df_combinado, msg
     except Exception:
         # si las columnas son distintas, usamos solo el primero y avisamos
